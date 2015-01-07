@@ -1,0 +1,14 @@
+[2014-05-01 22:13:49] INFO  - Phoenix - Start logging
+[2014-05-01 22:13:49] INFO  - Phoenix - Setup dispatchers
+[2014-05-01 22:13:49] INFO  - Phoenix - Start Phoenix Web Server
+[2014-05-01 22:13:49] INFO  - ADO.Drivers - Initialize using property file phoenix.conf
+[2014-05-01 22:13:49] INFO  - ADO.Queries.Loaders - Initializing query search paths to db
+[2014-05-01 22:13:49] INFO  - ADO.Drivers.Connections - Register driver mysql
+[2014-05-01 22:13:49] INFO  - ADO.Drivers.Connections - Register driver sqlite
+[2014-05-01 22:13:49] INFO  - ADO.Drivers.Connections - Set connection URI: mysql://localhost:3306/full?user=full
+[2014-05-01 22:13:49] INFO  - ADO.Drivers.Connections - Get driver mysql
+[2014-05-01 22:13:49] INFO  - ADO.Drivers.Connections - Created connection to 'mysql://localhost:3306/full?user=full' -> 1       
+[2014-05-01 22:13:49] DEBUG - ADO.Statements.Mysql - Execute SELECT o.id, o.name FROM entity_type AS o 
+[2014-05-01 22:13:49] INFO  - ADO.Drivers.Connections - Created connection to 'mysql://localhost:3306/full?user=full' -> 2       
+[2014-05-01 22:13:57] INFO  - Phoenix - Stop Phoenix Web Server
+[2014-05-01 22:13:57] INFO  - ADO.Sequences - Clearing the sequence factory
